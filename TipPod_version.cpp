@@ -1,0 +1,1 @@
+const char *TipPod_VERSIONTAG = "TipPod_VERSIONTAG SVN TEST_BUILD";

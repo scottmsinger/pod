@@ -1,0 +1,435 @@
+--------------------------------------------------------------------------------
+Input: ./testpods/3wl.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/BitsA.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/creature1ursa.fxBlood.r2.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/fluidSurfacer.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/fn020010.fxBlood.r2.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/foo.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/furStubPub.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/fxAshFall.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/fxAshFall_bgAsh0.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/fxAshFall_bgAsh0_vars.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/fxAshFall_bgAsh1.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/fxAshFall_bgAsh1_vars.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/fxAshFall_bgAsh2.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/fxAshFall_bgAsh2_vars.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/fxAshFall_bgAsh3.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/fxAshFall_bgAsh3_vars.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/fxAshFall_comp.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/fxAshFall_fgAsh0.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/fxAshFall_fgAsh0_vars.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/fxAshFall_fgAsh1.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/fxAshFall_fgAsh1_vars.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/fxAshFall_fgAsh2.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/fxAshFall_fgAsh2_vars.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/fxAshFall_fgAsh3.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/fxAshFall_fgAsh3_vars.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/fxAshFall_mgAsh0.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/fxAshFall_mgAsh0_vars.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/fxAshFall_mgAsh1.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/fxAshFall_mgAsh1_vars.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/fxAshFall_mu.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/fxAshFall_shaders.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/fxBits.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/fxBits_r1.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/fxBloodElemVar.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/fxBranchBreak.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/fxBranchBreak_bbLarge.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/fxBranchBreak_bbMed.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/fxBranchBreak_bbSmall.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/fxBubbles_shaders.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/fxDebris_pChunkVar.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/fxDeepEnv.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/fxDeepEnv_autoTriggerList.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/fxDeepEnv_autoTriggerList_il.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/fxDeepEnv_autoTriggerList_ul.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/fxDeepEnv_cam.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/fxDeepEnv_farm.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/fxDeepEnv_lib.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/fxDeepEnv_local.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/fxDeepEnv_local_vars.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/fxDeepEnv_set.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/fxDeepEnv_shaders.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/fxDeepEnv_standins.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/fxDeepEnv_vars.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/fxDetritus.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/fxDetritus_bgDetritus0.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/fxDetritus_bgDetritus0_vars.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/fxDetritus_fgDetritus0.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/fxDetritus_fgDetritus0_vars.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/fxDetritus_fgDetritus1.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/fxDetritus_fgDetritus1_vars.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/fxDetritus_mgDetritus0.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/fxDetritus_mgDetritus0_vars.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/fxDetritus_mu.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/fxDetritus_shaders.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/fxDustElemVar.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/fxFeathersElemVar.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/fxGoo.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/fxGoo_nParticles.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/fxGoo_ursa0.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/fxGoo_ursa0_var.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/fxGooVar.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/fxGravel.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/fxGravel_r1.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/fxHay_shaders.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/fxLawrenceElemVar.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/fxSkin_setup.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/fxSkin_setup_r1.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/fxSkin_setup_r2.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/fxSkin_sim.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/fxSkin_sim_r1.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/fxSkin_sim_r2.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/fxSkin_simUrsa.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/fxSpitVar.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/fxSplatVar.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/fxStumpGoo_nParticles.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/fxWaterSheetVar.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/GravelA.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/GravelB.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/kitai.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/lights.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/mmCam.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/mmCameraShake.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/mmSet.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/mmSetExtension.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/mmStandins.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/nobind_prop1crystals.hardSurfaces.r12.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/nobind_prop1crystals.hardSurfaces.r12c.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/prop1crystals.hardSurfaces.r12.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/prop1crystals.hardSurfaces.r12c.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/render_jaguar.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/render_nestFloor.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/render_shadows.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/rib_binds.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/rib_binds_he.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/simple1.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/test.cache.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/unittest.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/ursa.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testpods/wf144035.fxBlood.r1.cmd.pod
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testvars/shot.tpv
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testvars/simple1.tpv
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testmuds/addfoamparticles.mud
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testmuds/aeFxDroolCloth.mud
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testmuds/createrendermubgash.mud
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testmuds/createrendermufgflake.mud
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testmuds/createrendermuflake.mud
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testmuds/createrendermusnow.mud
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testmuds/createrendermusnow03.mud
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testmuds/createrendermuvol.mud
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testmuds/furstubpodcreate.mud
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testmuds/fxautotrigger.mud
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testmuds/fxgtoblend.mud
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testmuds/fxgtoblendhoody.mud
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testmuds/fxnestshift.mud
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testmuds/fxrenderpub.mud
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testmuds/fxsurfacerelaxer.mud
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testmuds/gtoinstanceparticles.mud
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testmuds/gtomuwrapattach.mud
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testmuds/gtomuwrapdeform.mud
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testmuds/gtoreplacepoints.mud
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testmuds/gtoxformflatten.mud
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testmuds/houdini_ggto.mud
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testmuds/mucopystamp.mud
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testmuds/nukeash.mud
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testmuds/nukedeep.mud
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testmuds/nukefootprint.mud
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testmuds/resamplegto.mud
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testmuds/ribgenrigto.mud
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testmuds/shotvar.mud
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testmuds/skinconnectexport.mud
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testmuds/skinupdateelem.mud
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testmuds/skinupdatescene.mud
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testmuds/strandgenmu.mud
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testmuds/tess.gto.mud
+returncode: 0
+--------------------------------------------------------------------------------
+Input: ./testmuds/utilstringidxpair.mud
+returncode: 0
